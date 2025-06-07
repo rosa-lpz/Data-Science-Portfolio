@@ -1,0 +1,1 @@
+DATA_DIR = "/home/rlz-98/Documents/GitHub/Data-Science-Portfolio/MA_predictive_maintenance/Data"
