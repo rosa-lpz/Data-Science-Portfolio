@@ -3,4 +3,5 @@
 ## Content
 ### Energy
 
+### Linear Regression
 ### Predictive Maintenance
